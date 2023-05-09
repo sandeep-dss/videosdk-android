@@ -1,1 +1,1 @@
-#Video COnference Android App using VideoSDK
+#Video Conference Android App using VideoSDK
